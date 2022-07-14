@@ -1,0 +1,8 @@
+/home/qin/linux/project_github/de_pattern/build/CMakeFiles/edit_cache.dir
+/home/qin/linux/project_github/de_pattern/build/CMakeFiles/rebuild_cache.dir
+/home/qin/linux/project_github/de_pattern/build/bin/CMakeFiles/pattern_app.dir
+/home/qin/linux/project_github/de_pattern/build/bin/CMakeFiles/edit_cache.dir
+/home/qin/linux/project_github/de_pattern/build/bin/CMakeFiles/rebuild_cache.dir
+/home/qin/linux/project_github/de_pattern/build/bin/factory_pattern/CMakeFiles/factory.dir
+/home/qin/linux/project_github/de_pattern/build/bin/factory_pattern/CMakeFiles/edit_cache.dir
+/home/qin/linux/project_github/de_pattern/build/bin/factory_pattern/CMakeFiles/rebuild_cache.dir

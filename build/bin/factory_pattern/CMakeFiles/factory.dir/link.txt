@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfactory.a CMakeFiles/factory.dir/factory_pattern.cpp.o
+/usr/bin/ranlib libfactory.a

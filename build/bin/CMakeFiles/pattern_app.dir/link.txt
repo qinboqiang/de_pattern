@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pattern_app.dir/main.cpp.o -o pattern_app  factory_pattern/libfactory.a 
